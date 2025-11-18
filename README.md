@@ -46,10 +46,6 @@ The system follows a Retrieve-and-Rerank flow:
 
 ## 🔄 Workflow (Detailed)
 
-<!-- Add `diagram.png` here to visually summarize the pipeline. -->
-<!-- Place your image file at repository root and name it `diagram.png`. -->
-![Workflow diagram](https://github.com/adarshms444/Multi-Dimensional-Candidate-Matching-System-for-Any-Job-Posting/blob/main/deepseek_mermaid_20251118_e6490d.png)
-
 **1. Ingestion (`utils.py`)**
 - Extract text from uploaded files using `pdfplumber` (PDF) and `python-docx` (DOCX). Clean punctuation, normalize whitespace, and segment into sections (Education, Experience, Skills).
 
