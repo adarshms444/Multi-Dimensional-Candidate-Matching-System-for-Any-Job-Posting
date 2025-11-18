@@ -1,0 +1,10 @@
+openai
+pydantic
+sentence-transformers
+rank-bm25
+chromadb
+tenacity
+pdfplumber
+python-docx
+streamlit
+numpy

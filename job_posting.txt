@@ -1,0 +1,27 @@
+
+Job Posting: Senior Python Developer (FinTech)
+
+We are seeking a Senior Python Developer with 5+ years of experience in building
+scalable web applications for the financial technology (FinTech) sector.
+The ideal candidate will be an expert in Python and the Django framework.
+
+Responsibilities:
+- Design and develop high-performance, reusable, and reliable Python code.
+- Mentor junior developers and perform code reviews.
+- Work with cloud services, preferably AWS.
+- Build and maintain secure REST APIs.
+
+Must-Have Qualifications:
+- 5+ years of Python experience
+- 3+ years with Django
+- Strong knowledge of SQL and PostgreSQL
+- B.S. in Computer Science
+
+Important Qualifications:
+- Experience with AWS (S3, EC2)
+- Knowledge of Docker
+- Experience with REST APIs
+
+Nice-to-Have:
+- Experience with React
+- Familiarity with CI/CD pipelines

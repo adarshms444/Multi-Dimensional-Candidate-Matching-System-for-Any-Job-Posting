@@ -1,0 +1,22 @@
+
+--- Jane Doe ---
+Email: jane.doe@example.com
+
+Summary:
+Senior Software Engineer with 8 years of experience specializing in backend
+development using Python and Django. Proven track record of leading teams
+and delivering scalable e-commerce and FinTech solutions.
+
+Experience:
+- Senior Developer, FinBank (2019 - Present)
+  - Led development of a new payment gateway using Python, Django, and PostgreSQL.
+  - Deployed applications on AWS S3 and EC2.
+  - Built secure REST APIs for mobile clients.
+- Developer, TechCorp (2016 - 2019)
+  - Built internal tools with Python.
+
+Education:
+- B.S. in Computer Science
+
+Skills:
+Python, Django, PostgreSQL, SQL, AWS, S3, EC2, Git, Docker, REST APIs

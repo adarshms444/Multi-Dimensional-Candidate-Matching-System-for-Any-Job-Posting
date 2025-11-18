@@ -1,0 +1,19 @@
+
+--- John Smith ---
+Email: john.smith@example.com
+
+Summary:
+Frontend Developer with 3 years of experience. Passionate about creating
+beautiful user interfaces with React. Eager to learn backend technologies.
+
+Experience:
+- Frontend Developer, WebStyles (2021 - Present)
+  - Built and maintained the company's main website using React and Redux.
+- Intern, Dev Co (2020)
+  - Worked with JavaScript and HTML/CSS.
+
+Education:
+- B.A. in Graphic Design
+
+Skills:
+React, JavaScript, HTML, CSS, Redux, Git

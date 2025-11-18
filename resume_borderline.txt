@@ -1,0 +1,21 @@
+
+--- Priya Sharma ---
+Email: priya.sharma@example.com
+
+Summary:
+Data Scientist with 6 years of experience in machine learning and data analysis.
+Extensive experience with Python and its data stack (Pandas, NumPy).
+
+Experience:
+- Data Scientist, DataAnalytics Inc. (2018 - Present)
+  - Built ML models using Python, Scikit-learn, and TensorFlow.
+  - Deployed models on AWS Sagemaker.
+- Data Analyst, Insights Co. (2016 - 2018)
+  - Wrote SQL queries and created dashboards.
+
+Education:
+- M.S. in Data Science
+- B.S. in Computer Science
+
+Skills:
+Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, AWS, Sagemaker
